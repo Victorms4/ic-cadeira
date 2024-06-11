@@ -1,0 +1,8 @@
+source;share/cadeira/hook/cmake_prefix_path.ps1
+source;share/cadeira/hook/cmake_prefix_path.dsv
+source;share/cadeira/hook/cmake_prefix_path.sh
+source;share/cadeira/local_setup.bash
+source;share/cadeira/local_setup.dsv
+source;share/cadeira/local_setup.ps1
+source;share/cadeira/local_setup.sh
+source;share/cadeira/local_setup.zsh

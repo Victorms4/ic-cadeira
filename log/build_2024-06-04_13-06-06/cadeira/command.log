@@ -1,0 +1,2 @@
+Invoking command in '/home/ic/cadeira/build/cadeira': /usr/bin/cmake /home/ic/cadeira/src/cadeira -DCMAKE_INSTALL_PREFIX=/home/ic/cadeira/install/cadeira
+Invoked command in '/home/ic/cadeira/build/cadeira' returned '1': /usr/bin/cmake /home/ic/cadeira/src/cadeira -DCMAKE_INSTALL_PREFIX=/home/ic/cadeira/install/cadeira

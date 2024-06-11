@@ -1,0 +1,32 @@
+[0.027s] Invoking command in '/home/ic/cadeira/build/cadeira': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ic/ros2_ws/install/rqt_joint_trajectory_controller:/home/ic/ros2_ws/install/rqt_controller_manager:/home/ic/ros2_ws/install/ros2controlcli:/home/ic/ros2_ws/install/ros2_controllers_test_nodes:/opt/ros/iron /usr/bin/cmake --build /home/ic/cadeira/build/cadeira -- -j8 -l8
+[0.071s] -- Found ament_cmake: 2.0.5 (/opt/ros/iron/share/ament_cmake/cmake)
+[0.276s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.379s] -- Configuring done
+[0.384s] -- Generating done
+[0.386s] -- Build files have been written to: /home/ic/cadeira/build/cadeira
+[0.428s] Invoked command in '/home/ic/cadeira/build/cadeira' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ic/ros2_ws/install/rqt_joint_trajectory_controller:/home/ic/ros2_ws/install/rqt_controller_manager:/home/ic/ros2_ws/install/ros2controlcli:/home/ic/ros2_ws/install/ros2_controllers_test_nodes:/opt/ros/iron /usr/bin/cmake --build /home/ic/cadeira/build/cadeira -- -j8 -l8
+[0.507s] Invoking command in '/home/ic/cadeira/build/cadeira': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ic/ros2_ws/install/rqt_joint_trajectory_controller:/home/ic/ros2_ws/install/rqt_controller_manager:/home/ic/ros2_ws/install/ros2controlcli:/home/ic/ros2_ws/install/ros2_controllers_test_nodes:/opt/ros/iron /usr/bin/cmake --install /home/ic/cadeira/build/cadeira
+[0.523s] -- Install configuration: ""
+[0.523s] -- Execute custom install script
+[0.524s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/launch/launch_sim.launch.py
+[0.524s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/launch/rsp.launch.py
+[0.525s] -- Symlinking: /home/ic/cadeira/install/cadeira/share/cadeira/description/cadeira.urdf
+[0.543s] -- Symlinking: /home/ic/cadeira/install/cadeira/share/cadeira/description/cadeira.urdf.xacro
+[0.561s] -- Symlinking: /home/ic/cadeira/install/cadeira/share/cadeira/description/cadeira.xacro
+[0.579s] -- Symlinking: /home/ic/cadeira/install/cadeira/share/cadeira/description/macros_inercia.xacro
+[0.597s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/ament_index/resource_index/package_run_dependencies/cadeira
+[0.597s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/ament_index/resource_index/parent_prefix_path/cadeira
+[0.597s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/environment/ament_prefix_path.sh
+[0.598s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/environment/ament_prefix_path.dsv
+[0.598s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/environment/path.sh
+[0.598s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/environment/path.dsv
+[0.598s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/local_setup.bash
+[0.599s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/local_setup.sh
+[0.599s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/local_setup.zsh
+[0.599s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/local_setup.dsv
+[0.600s] -- Symlinking: /home/ic/cadeira/install/cadeira/share/cadeira/package.dsv
+[0.618s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/ament_index/resource_index/packages/cadeira
+[0.618s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/cmake/cadeiraConfig.cmake
+[0.619s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/cmake/cadeiraConfig-version.cmake
+[0.619s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/package.xml
+[0.621s] Invoked command in '/home/ic/cadeira/build/cadeira' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ic/ros2_ws/install/rqt_joint_trajectory_controller:/home/ic/ros2_ws/install/rqt_controller_manager:/home/ic/ros2_ws/install/ros2controlcli:/home/ic/ros2_ws/install/ros2_controllers_test_nodes:/opt/ros/iron /usr/bin/cmake --install /home/ic/cadeira/build/cadeira

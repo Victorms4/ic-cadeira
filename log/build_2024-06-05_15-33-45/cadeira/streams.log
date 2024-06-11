@@ -1,0 +1,36 @@
+[0.023s] Invoking command in '/home/ic/cadeira/build/cadeira': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ic/ros2_ws/install/rqt_joint_trajectory_controller:/home/ic/ros2_ws/install/rqt_controller_manager:/home/ic/ros2_ws/install/ros2controlcli:/home/ic/ros2_ws/install/ros2_controllers_test_nodes:/opt/ros/iron /usr/bin/cmake --build /home/ic/cadeira/build/cadeira -- -j8 -l8
+[0.100s] [35m[1mConsolidate compiler generated dependencies of target controlador_lidar[0m
+[0.131s] [ 50%] [32mBuilding CXX object CMakeFiles/controlador_lidar.dir/src/controlador_lidar.cpp.o[0m
+[5.633s] [100%] [32m[1mLinking CXX executable controlador_lidar[0m
+[6.405s] [100%] Built target controlador_lidar
+[6.423s] Invoked command in '/home/ic/cadeira/build/cadeira' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ic/ros2_ws/install/rqt_joint_trajectory_controller:/home/ic/ros2_ws/install/rqt_controller_manager:/home/ic/ros2_ws/install/ros2controlcli:/home/ic/ros2_ws/install/ros2_controllers_test_nodes:/opt/ros/iron /usr/bin/cmake --build /home/ic/cadeira/build/cadeira -- -j8 -l8
+[6.503s] Invoking command in '/home/ic/cadeira/build/cadeira': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ic/ros2_ws/install/rqt_joint_trajectory_controller:/home/ic/ros2_ws/install/rqt_controller_manager:/home/ic/ros2_ws/install/ros2controlcli:/home/ic/ros2_ws/install/ros2_controllers_test_nodes:/opt/ros/iron /usr/bin/cmake --install /home/ic/cadeira/build/cadeira
+[6.516s] -- Install configuration: ""
+[6.516s] -- Execute custom install script
+[6.517s] -- Symlinking: /home/ic/cadeira/install/cadeira/lib/cadeira/controlador_lidar
+[6.532s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/launch/launch_sim.launch.py
+[6.533s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/launch/rsp.launch.py
+[6.533s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/config/gazebo_params.yaml
+[6.533s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/config/joint_controller.yaml
+[6.534s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/description/cadeira.urdf
+[6.534s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/description/cadeira.urdf.xacro
+[6.534s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/description/cadeira.xacro
+[6.535s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/description/cadeira2.urdf
+[6.535s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/description/gazebo_control.xacro
+[6.535s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/description/macros_inercia.xacro
+[6.536s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/ament_index/resource_index/package_run_dependencies/cadeira
+[6.536s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/ament_index/resource_index/parent_prefix_path/cadeira
+[6.536s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/environment/ament_prefix_path.sh
+[6.537s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/environment/ament_prefix_path.dsv
+[6.537s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/environment/path.sh
+[6.537s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/environment/path.dsv
+[6.538s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/local_setup.bash
+[6.538s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/local_setup.sh
+[6.538s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/local_setup.zsh
+[6.538s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/local_setup.dsv
+[6.539s] -- Symlinking: /home/ic/cadeira/install/cadeira/share/cadeira/package.dsv
+[6.556s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/ament_index/resource_index/packages/cadeira
+[6.556s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/cmake/cadeiraConfig.cmake
+[6.556s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/cmake/cadeiraConfig-version.cmake
+[6.557s] -- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/package.xml
+[6.559s] Invoked command in '/home/ic/cadeira/build/cadeira' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ic/ros2_ws/install/rqt_joint_trajectory_controller:/home/ic/ros2_ws/install/rqt_controller_manager:/home/ic/ros2_ws/install/ros2controlcli:/home/ic/ros2_ws/install/ros2_controllers_test_nodes:/opt/ros/iron /usr/bin/cmake --install /home/ic/cadeira/build/cadeira

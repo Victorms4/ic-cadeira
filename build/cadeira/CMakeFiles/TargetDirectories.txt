@@ -1,0 +1,10 @@
+/home/ic/cadeira/build/cadeira/CMakeFiles/uninstall.dir
+/home/ic/cadeira/build/cadeira/CMakeFiles/cadeira_uninstall.dir
+/home/ic/cadeira/build/cadeira/CMakeFiles/controlador_lidar.dir
+/home/ic/cadeira/build/cadeira/CMakeFiles/test.dir
+/home/ic/cadeira/build/cadeira/CMakeFiles/edit_cache.dir
+/home/ic/cadeira/build/cadeira/CMakeFiles/rebuild_cache.dir
+/home/ic/cadeira/build/cadeira/CMakeFiles/list_install_components.dir
+/home/ic/cadeira/build/cadeira/CMakeFiles/install.dir
+/home/ic/cadeira/build/cadeira/CMakeFiles/install/local.dir
+/home/ic/cadeira/build/cadeira/CMakeFiles/install/strip.dir

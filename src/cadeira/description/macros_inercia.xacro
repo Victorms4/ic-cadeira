@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro" >
+
+    <!-- Specify some standard inertial calculations https://en.wikipedia.org/wiki/List_of_moments_of_inertia -->
+    <!-- These make use of xacro's mathematical functionality -->
+
+    <xacro:macro name="inercia_esfera" params="massa raio *origem">
+        <inertial>
+            <xacro:insert_block name="origem"/>
+            <massa value="${massa}" />
+            <inertia ixx="${(2/5) * massa * (raio*raio)}" ixy="0.0" ixz="0.0"
+                    iyy="${(2/5) * massa * (raio*raio)}" iyz="0.0"
+                    izz="${(2/5) * massa * (raio*raio)}" />
+        </inertial>
+    </xacro:macro>  
+
+
+    <xacro:macro name="inercia_caixa" params="massa x y z *origem">
+        <inertial>
+            <xacro:insert_block name="origem"/>
+            <massa value="${massa}" />
+            <inertia ixx="${(1/12) * massa * (y*y+z*z)}" ixy="0.0" ixz="0.0"
+                    iyy="${(1/12) * massa * (x*x+z*z)}" iyz="0.0"
+                    izz="${(1/12) * massa * (x*x+y*y)}" />
+        </inertial>
+    </xacro:macro>
+
+
+    <xacro:macro name="inercia_cilindro" params="massa length raio *origem">
+        <inertial>
+            <xacro:insert_block name="origem"/>
+            <massa value="${massa}" />
+            <inertia ixx="${(1/12) * massa * (3*raio*raio + length*length)}" ixy="0.0" ixz="0.0"
+                    iyy="${(1/12) * massa * (3*raio*raio + length*length)}" iyz="0.0"
+                    izz="${(1/2) * massa * (raio*raio)}" />
+        </inertial>
+    </xacro:macro>
+
+
+</robot>

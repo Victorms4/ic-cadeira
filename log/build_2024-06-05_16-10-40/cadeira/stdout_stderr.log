@@ -1,0 +1,31 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/controlador_lidar.dir/src/controlador_lidar.cpp.o[0m
+[100%] [32m[1mLinking CXX executable controlador_lidar[0m
+[100%] Built target controlador_lidar
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/ic/cadeira/install/cadeira/lib/cadeira/controlador_lidar
+-- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/launch/launch_sim.launch.py
+-- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/launch/rsp.launch.py
+-- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/config/gazebo_params.yaml
+-- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/config/joint_controller.yaml
+-- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/description/cadeira.urdf
+-- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/description/cadeira.urdf.xacro
+-- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/description/cadeira.xacro
+-- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/description/cadeira2.urdf
+-- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/description/gazebo_control.xacro
+-- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/description/macros_inercia.xacro
+-- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/ament_index/resource_index/package_run_dependencies/cadeira
+-- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/ament_index/resource_index/parent_prefix_path/cadeira
+-- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/environment/path.sh
+-- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/environment/path.dsv
+-- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/local_setup.bash
+-- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/local_setup.sh
+-- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/local_setup.zsh
+-- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/local_setup.dsv
+-- Symlinking: /home/ic/cadeira/install/cadeira/share/cadeira/package.dsv
+-- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/ament_index/resource_index/packages/cadeira
+-- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/cmake/cadeiraConfig.cmake
+-- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/cmake/cadeiraConfig-version.cmake
+-- Up-to-date symlink: /home/ic/cadeira/install/cadeira/share/cadeira/package.xml

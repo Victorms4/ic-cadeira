@@ -1,0 +1,14 @@
+[0.029s] Invoking command in '/home/ic/cadeira/build/cadeira': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ic/ros2_ws/install/rqt_joint_trajectory_controller:/home/ic/ros2_ws/install/rqt_controller_manager:/home/ic/ros2_ws/install/ros2controlcli:/home/ic/ros2_ws/install/ros2_controllers_test_nodes:/opt/ros/iron /usr/bin/cmake --build /home/ic/cadeira/build/cadeira -- -j8 -l8
+[0.102s] [35m[1mConsolidate compiler generated dependencies of target controlador_lidar[0m
+[0.135s] [ 50%] [32mBuilding CXX object CMakeFiles/controlador_lidar.dir/src/controlador_lidar.cpp.o[0m
+[3.009s] [01m[K/home/ic/cadeira/src/cadeira/src/controlador_lidar.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[3.010s] [01m[K/home/ic/cadeira/src/cadeira/src/controlador_lidar.cpp:45:24:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kargv[m[K’ in ‘[01m[Kargc[m[K’, which is of non-class type ‘[01m[Kint[m[K’
+[3.010s]    45 |     rclcpp::init(argc. [01;31m[Kargv[m[K);
+[3.010s]       |                        [01;31m[K^~~~[m[K
+[3.014s] [01m[K/home/ic/cadeira/src/cadeira/src/controlador_lidar.cpp:43:26:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kargv[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[3.014s]    43 | int main(int argc, [01;35m[Kchar* argv[][m[K)
+[3.014s]       |                    [01;35m[K~~~~~~^~~~~~[m[K
+[4.556s] gmake[2]: *** [CMakeFiles/controlador_lidar.dir/build.make:76: CMakeFiles/controlador_lidar.dir/src/controlador_lidar.cpp.o] Error 1
+[4.556s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/controlador_lidar.dir/all] Error 2
+[4.556s] gmake: *** [Makefile:146: all] Error 2
+[4.559s] Invoked command in '/home/ic/cadeira/build/cadeira' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ic/ros2_ws/install/rqt_joint_trajectory_controller:/home/ic/ros2_ws/install/rqt_controller_manager:/home/ic/ros2_ws/install/ros2controlcli:/home/ic/ros2_ws/install/ros2_controllers_test_nodes:/opt/ros/iron /usr/bin/cmake --build /home/ic/cadeira/build/cadeira -- -j8 -l8

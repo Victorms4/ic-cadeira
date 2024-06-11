@@ -1,0 +1,5 @@
+joints:
+  - name: "joint_name"
+    type: "position_controllers/JointPositionController"
+    default: true
+    actuators: ["MotorLidar"]

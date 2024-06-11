@@ -1,0 +1,4 @@
+source;share/cadeira/local_setup.bash
+source;share/cadeira/local_setup.dsv
+source;share/cadeira/local_setup.sh
+source;share/cadeira/local_setup.zsh

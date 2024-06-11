@@ -1,0 +1,1 @@
+/home/ic/cadeira/build/cadeira/ament_cmake_core/cadeiraConfig-version.cmake
